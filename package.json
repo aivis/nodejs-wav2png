@@ -1,0 +1,17 @@
+{
+    "name": "wav2png",
+    "version": "0.1.0",
+    "description": "Node.js wrapper for beschulz wav2png",
+    "main": "lib/wav2png.js",
+    "author": "Aivis Silins",
+    "keywords": ["wav2png"],
+    "repository": {
+        "type": "git",
+        "url": "git@github.com:aivis/nodejs-wav2png.git"
+    },
+    "scripts": {},
+    "devDependencies": {},
+    "dependencies": {
+		"procstreams": "0.3.0"
+	}
+}
