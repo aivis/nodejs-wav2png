@@ -1,6 +1,6 @@
 {
     "name": "wav2png",
-    "version": "0.1.1",
+    "version": "0.1.2",
     "description": "Node.js wrapper for beschulz wav2png",
     "main": "lib/wav2png.js",
     "author": "Aivis Silins",
